@@ -1,4 +1,6 @@
-"posts:" {
+"posts:"
+[
+    {
     "userId": 1,
     "id": 1,
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
@@ -46,3 +48,23 @@
     "title": "dolorem dolore est ipsam",
     "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
   }
+],
+[
+    {
+  "id": 1,
+  "name": "Leanne Graham",
+  "lastname": "Bret",
+  "Job": "Web Developer",      
+   "data": "05/06/1992",    
+      "phone": "347 4596949",         
+  "email": "Sincere@april.biz",
+  "password": "leonardo",
+     "address": "Catania, Italia",          
+  
+  "link": {
+    "website": "leannegraham.com",
+    "instagram": "leanne_graham"
+    }
+  }
+ 
+  ]
